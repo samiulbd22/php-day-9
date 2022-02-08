@@ -1,0 +1,14 @@
+{
+  "name": "php-18/php-18",
+  "type": "project",
+  "description": "A new project",
+  "license": "",
+  "keywords": [],
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app//"
+    }
+  }
+}
